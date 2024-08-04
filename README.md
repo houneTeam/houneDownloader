@@ -63,14 +63,6 @@ You can customize the script by modifying the following:
 - **Connection Issues:** Ensure your internet connection is stable or increase the retry interval if you encounter frequent drops.
 - **Permission Errors:** Run the script with appropriate permissions if you encounter file access issues.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Feel free to submit issues and enhancement requests. Pull requests are welcome!
-
 ## Acknowledgments
 
 - [requests](https://github.com/psf/requests) - HTTP library for Python.
